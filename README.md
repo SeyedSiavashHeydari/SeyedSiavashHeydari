@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeyedSiavashHeydari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyedsiavashheydari@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/siavash_heydari_1387)
 
 ---
 
@@ -13,9 +14,12 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 - 💻 I build **web apps and scripts** with Python, Django, and JavaScript
 - 🌐 I'm learning and practicing **network engineering & cybersecurity**
 - 🐧 I work with **Linux and its many distributions** daily
-- ⚡ Fun fact: I'm juggling **three tech worlds** — development, design, and networks — all at 17!
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning!" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -39,10 +43,10 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 
 ### 🌐 Networking & Cybersecurity
 
-![Network+](https://img.shields.io/badge/Network%2B-FF6B35?style=for-the-badge&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white)
 ![Security+](https://img.shields.io/badge/Security%2B-D32F2F?style=for-the-badge&logo=comptia&logoColor=white)
-![MCSA](https://img.shields.io/badge/MCSA-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)
-![MCSE](https://img.shields.io/badge/MCSE-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)
+![MCSA](https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MCSE](https://img.shields.io/badge/MCSE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
@@ -62,7 +66,7 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
   <tr>
     <td align="center" width="33%">
       <h3>💻 Development</h3>
-      <p>Building web apps with <b>Django</b> & <b>Python</b>, scripting in <b>Bash</b>, and creating responsive UIs with <b>HTML/CSS/JS</b>.</p>
+      <p>Building web apps with <b>Django</b> & <b>Python</b>, scripting in <b>Bash</b>, and creating responsive UIs with <b>HTML/CSS/JS</b>. (Websites, Telegram bots,etc)</p>
     </td>
     <td align="center" width="33%">
       <h3>🎨 Design</h3>
@@ -70,7 +74,7 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
     </td>
     <td align="center" width="33%">
       <h3>🌐 Networking</h3>
-      <p>Working with <b>network security</b>, <b>virtualization</b>, and <b>ethical hacking</b> concepts across Windows & Linux environments.</p>
+      <p>Working with <b>network security</b>, <b>virtualization</b>, and <b>Network services</b> concepts across Windows & Linux environments.</p>
     </td>
   </tr>
 </table>
@@ -91,15 +95,15 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeyedSiavashHeydari&show_icons=true&bg_color=0D1117,FF4500,FF8C00&title_color=FFD700&text_color=FFF5E1&icon_color=FF4500&border_color=FF4500&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeyedSiavashHeydari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyedSiavashHeydari&layout=compact&bg_color=0D1117,FF4500,FF8C00&title_color=FFD700&text_color=FFF5E1&border_color=FF4500&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyedSiavashHeydari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeyedSiavashHeydari&background=0D1117,FF4500,FF8C00&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFF5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFF5E1&border=FF4500" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeyedSiavashHeydari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -117,8 +121,9 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 
 I'm always open to collaboration, learning opportunities, and interesting conversations!
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/SeyedSiavashHeydari)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SeyedSiavashHeydari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/siavash_heydari_1387)
 
 ---
 
