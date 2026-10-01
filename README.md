@@ -66,7 +66,7 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
   <tr>
     <td align="center" width="33%">
       <h3>💻 Development</h3>
-      <p>Building web apps with <b>Django</b> & <b>Python</b>, scripting in <b>Bash</b>, and creating responsive UIs with <b>HTML/CSS/JS</b>.</p>
+      <p>Building web apps with <b>Django</b> & <b>Python</b>, scripting in <b>Bash</b>, and creating responsive UIs with <b>HTML/CSS/JS</b>. (Websites, Telegram bots,etc)</p>
     </td>
     <td align="center" width="33%">
       <h3>🎨 Design</h3>
