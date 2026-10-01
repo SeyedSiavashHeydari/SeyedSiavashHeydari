@@ -70,7 +70,7 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
     </td>
     <td align="center" width="33%">
       <h3>🌐 Networking</h3>
-      <p>Working with <b>network security</b>, <b>virtualization</b>, and <b>ethical hacking</b> concepts across Windows & Linux environments.</p>
+      <p>Working with <b>network security</b>, <b>virtualization</b>, and <b>Network services</b> concepts across Windows & Linux environments.</p>
     </td>
   </tr>
 </table>
