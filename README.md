@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeyedSiavashHeydari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyedsiavashheydari@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/siavash_heydari_1387)
 
 ---
 
@@ -13,7 +14,6 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 - 💻 I build **web apps and scripts** with Python, Django, and JavaScript
 - 🌐 I'm learning and practicing **network engineering & cybersecurity**
 - 🐧 I work with **Linux and its many distributions** daily
-- ⚡ Fun fact: I'm juggling **three tech worlds** — development, design, and networks — all at 17!
 
 ---
 
@@ -119,6 +119,7 @@ I'm always open to collaboration, learning opportunities, and interesting conver
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SeyedSiavashHeydari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/siavash_heydari_1387)
 
 ---
 
