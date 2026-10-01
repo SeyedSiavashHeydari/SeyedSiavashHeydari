@@ -17,6 +17,10 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning!" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
