@@ -52,7 +52,6 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 
 ### 🐧 Operating Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
@@ -81,16 +80,6 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
 
 ---
 
-## 🎓 Certifications & Knowledge Areas
-
-- 🛡️ **CompTIA Network+** — Networking fundamentals
-- 🔒 **CompTIA Security+** — Security principles & practices
-- 🪟 **MCSA** — Microsoft Certified Solutions Associate
-- 🪟 **MCSE** — Microsoft Certified Solutions Expert
-- 🕵️ **CEH** — Certified Ethical Hacker
-- 🖥️ **VMware Workstation** — Virtualization
-
----
 
 ## 📊 GitHub Stats
 
