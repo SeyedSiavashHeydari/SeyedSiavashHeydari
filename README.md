@@ -70,7 +70,7 @@ I'm a **17-year-old programmer and graphic designer** based in **Iran** 🇮🇷
     </td>
     <td align="center" width="33%">
       <h3>🎨 Design</h3>
-      <p>Crafting visuals, editing videos, and creating motion graphics using the full <b>Adobe Creative Suite</b>.</p>
+      <p>Crafting visuals, editing videos, and creating motion graphics using the full <b>Adobe Package</b>.</p>
     </td>
     <td align="center" width="33%">
       <h3>🌐 Networking</h3>
